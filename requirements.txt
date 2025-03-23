@@ -1,0 +1,7 @@
+gym
+gymnasium
+stable-baselines3
+numpy
+ale-py
+opencv-python
+tensorboard
