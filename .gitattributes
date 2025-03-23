@@ -1,3 +1,4 @@
 models/model_dqn.zip filter=lfs diff=lfs merge=lfs -text
 models/model_dqns_mlp.zip filter=lfs diff=lfs merge=lfs -text
 dqn_model.zip filter=lfs diff=lfs merge=lfs -text
+models/dqn_model.zip filter=lfs diff=lfs merge=lfs -text
